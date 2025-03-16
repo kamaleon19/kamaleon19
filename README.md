@@ -84,6 +84,23 @@
 </div>
                                                                                       
 </td>
+
+<tr>
+<td width="50%">
+<h3 align="center">Safe-Sales API</h3>
+<div align="center">
+<a href="https://github.com/No-Country-simulation/c24-69-webApp" target="_blank"><img src="https://raw.githubusercontent.com/kamaleon19/kamaleon19/main/assets/safe-sales.png" width="400" alt="API para gestion de ventas"></a>
+<p>
+<a href="https://github.com/No-Country-simulation/c24-69-webApp" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</a>
+</p>
+<p>API Truck-Scan dedicada para empresas que requieran realizar diversos analisis a vehiculos pesados mediante formularios, utilizando distintos roles de usuario para acceder al sistema. </p>
+<p>Desarrollado en un contexto de simulacion laboral de No Country. </p>
+</div>
+                                                                                      
+</td>
 </table>  
 
 
