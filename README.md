@@ -83,9 +83,8 @@
 <p>API dedicada a gestionar ventas, inventario, gastos, etc. para un negocio.</p>
 </div>
                                                                                       
-</td>
 
-<tr>
+
 <td width="50%">
 <h3 align="center">Truck-Scan API</h3>
 <div align="center">
