@@ -87,7 +87,7 @@
 
 <tr>
 <td width="50%">
-<h3 align="center">Safe-Sales API</h3>
+<h3 align="center">Truck-Scan API</h3>
 <div align="center">
 <a href="https://github.com/No-Country-simulation/c24-69-webApp" target="_blank"><img src="https://raw.githubusercontent.com/kamaleon19/kamaleon19/main/assets/safe-sales.png" width="400" alt="API para gestion de ventas"></a>
 <p>
