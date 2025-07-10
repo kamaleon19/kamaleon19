@@ -13,7 +13,7 @@
 ✍️ &nbsp;En mi tiempo libre consumo videos y podcasts de programadores que sigo.\
 💬 &nbsp;Me gusta ayudar a los demás asi que sentite libre de escribirme para consultar o por proyectos!.\
 ✉️ &nbsp;Podes contactarme via email joaco.px@gmail.com. Respondere lo antes posible.\
-📄 &nbsp;Mi CV aqui! [CV](https://drive.google.com/drive/u/0/my-drive) Estoy abierto a sugerencias!
+📄 &nbsp;Mi CV aqui! [CV](https://drive.google.com/file/d/1ofcynNBF092A46exO8In08mJBbDFMU09/view?usp=drive_link) Estoy abierto a sugerencias!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
